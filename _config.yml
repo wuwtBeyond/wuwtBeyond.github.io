@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "wuwtBeyond"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "China"
   email            :
   links:
     - label: "Email"
@@ -171,7 +171,7 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  - /test.md # ignore Minimal Mistakes /test.md
+  - /2020-05-08-测试一下.md # ignore Minimal Mistakes /2020-05-08-测试一下.md
 keep_files:
   - .git
   - .svn

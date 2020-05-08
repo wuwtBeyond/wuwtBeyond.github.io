@@ -609,7 +609,7 @@
 		 */
 		var init = function () {
 
-			// feature test.md
+			// feature 2020-05-08-测试一下.md
 			if (!supports()) throw 'Smooth Scroll: This browser does not support the required JavaScript methods and browser APIs.';
 
 			// Destroy any existing initializations
