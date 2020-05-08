@@ -50,7 +50,7 @@ about: "Is something not working as expected?"
   the theme, customized _config.yml, added your own posts, and started up a 
   Jekyll server locally.
 
-  If an error occurred on GitHub Pages when pushing, please test a local version
+  If an error occurred on GitHub Pages when pushing, please test.md a local version
   following these setup instructions: 
   https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 
