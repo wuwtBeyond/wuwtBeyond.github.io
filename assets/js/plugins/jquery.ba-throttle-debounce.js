@@ -34,7 +34,7 @@
 //
 // Information about what version or versions of jQuery this plugin has been
 // tested with, what browsers it has been tested in, and where the unit tests
-// reside (so you can 2020-05-08-测试一下.md it yourself).
+// reside (so you can 2020-05-08-仅用于测试.md it yourself).
 //
 // jQuery Versions - none, 1.3.2, 1.4.2
 // Browsers Tested - Internet Explorer 6-8, Firefox 2-3.6, Safari 3-4, Chrome 4-5, Opera 9.6-10.1.
