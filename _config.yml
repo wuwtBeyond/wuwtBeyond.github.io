@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "后端开发打怪升级之路"
+title                    : "后端-打怪升级"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "wwtao"
